@@ -1,0 +1,26 @@
+h1 {
+  color: green;
+  font-family: sans-serif;
+}
+#home-page p {
+  color: coral;
+  font-family: fantasy;
+}
+h2 {
+  color: pink;
+}
+ul {
+  list-style-image: url("images/pointer-icon.png");
+}
+ol {
+  list-style-type: upper-roman;
+}
+#menu-bar a {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aquamarine;
+  padding: 5px;
+}
+#menu-bar a:hover {
+  background-color: green;
+  color: white;
+}
